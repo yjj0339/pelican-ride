@@ -2,7 +2,7 @@
 
 一只鹈鹕，一辆自行车，一段黄昏的海边公路。
 
-纯 Three.js 程序化生成的 3D 动画单页（无模型文件、无构建步骤），部署于 GitHub Pages。
+纯 Three.js 程序化生成的 3D 动画单页（无模型文件、无构建步骤），部署于 GitHub Pages。Three.js 已内置于仓库，无需访问外部 CDN。
 
 ## ✨ 看点
 
@@ -15,6 +15,6 @@
 
 ## 🚀 运行
 
-直接打开 `index.html`，或部署到任意静态托管。Three.js 通过 CDN (jsdelivr) 加载，需联网。
+直接打开 `index.html`，或部署到任意静态托管。
 
 线上地址：https://yjj0339.github.io/pelican-ride/
